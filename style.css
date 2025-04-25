@@ -112,6 +112,7 @@ main {
     top: 50px;
     left: 100px; /* Position just to the right of content (40rem) */
     transform: translateX(); 
+    transform: translateY(); 
     z-index: 999;
     left:20rem;
 }
